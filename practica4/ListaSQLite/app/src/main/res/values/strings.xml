@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListaSQLite</string>
+    <string name="agregar_nombre">Nombre</string>
+    <string name="agregar_telefono">Telefono</string>
+    <string name="agregar_email">Email</string>
+    <string name="agregar_aceptar">Aceptar</string>
+    <string name="agregar_cancelar">Cancelar</string>
+</resources>
